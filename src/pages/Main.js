@@ -51,9 +51,6 @@ const Main = () => {
     unitModeChanged(enabled);
   };
 
-  //console.log("location", lat, long);
-  //console.log("Weather", weather);
-
   useEffect(() => {
     //default fetching
     getWeatherLocation(lat, long);

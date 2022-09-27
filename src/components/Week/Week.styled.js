@@ -3,7 +3,6 @@ import styled from "styled-components";
 export const StyledWeek = styled.div`
   color: ${(props) => props.theme.textColor};
   margin-top: 20px;
-  //background: red;
   justify-content: center;
   align-items: center;
 
