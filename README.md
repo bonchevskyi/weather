@@ -8,7 +8,7 @@
 https://openweathermap.org/ <br/>
 https://unsplash.com/developers <br/>
 
-You need to create .env and add the follow keys<br/>
+You need to create .env and add the following keys:<br/>
 REACT_APP_API_KEY_APPID=your-api<br />
 REACT_APP_API_KEY_UNSPLASH=your-api
 
